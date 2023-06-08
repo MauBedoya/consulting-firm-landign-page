@@ -2,7 +2,7 @@
 
 Maquetado de una landing page orientada a consultoras, utilizando multiples características de **Tailwind CSS** como framework UI en conjunto con **Vite**.
 
-### 📌[Live Demo]()
+### 📌[Live Demo](https://consulting-firm-landign-page.vercel.app/)
 
 ## Tecnologías
 
